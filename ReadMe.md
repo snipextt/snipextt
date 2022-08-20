@@ -14,9 +14,4 @@
 
 ### Random Meme from a random API (Sometimes funny)
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-  ## 💰 You can help me by Donating
-  [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/snipextt) 
-
-  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
