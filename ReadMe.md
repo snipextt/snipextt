@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=snipextt&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snipextt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### Random Meme from a random API (Sometimes funny)
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
   ## 💰 You can help me by Donating
